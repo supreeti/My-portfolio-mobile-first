@@ -1,0 +1,22 @@
+/* Toolbar */
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 12px;
+    width: 360px;
+    max-width: 768px;
+  }
+  
+  /* Headline */
+  .headline {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    position: static;
+    top: 20px;
+    padding-top: 20px;
+    width: 360px;
+    max-width: 768px;
+  }
+  
